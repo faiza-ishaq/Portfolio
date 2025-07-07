@@ -139,7 +139,7 @@ section {
 }
 
 .home.show-animate .home-content .text-animate h3 {
-    animation: homeBgText 6s linear infinite;
+    animation: homeBgText 4s linear infinite;
     animation-delay: 2s;
 }
 
@@ -156,7 +156,7 @@ section {
 }
 
 .home.show-animate .home-content .text-animate h3::before {
-    animation: homeCursorText 6s linear infinite;
+    animation: homeCursorText 4s linear infinite;
     animation-delay: 2s;
 }
 
